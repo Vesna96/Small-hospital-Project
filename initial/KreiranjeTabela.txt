@@ -1,0 +1,123 @@
+CREATE TABLE ODELJENJE(
+Sifra         number(5),
+Tip         varchar(15) NOT NULL,
+Datum_Izgradnje         date NOT NULL,
+Specijalista         varchar(15)
+);
+
+ALTER TABLE ODELJENJE ADD PRIMARY KEY(Sifra);
+
+ALTER TABLE ODELJENJE ADD CONSTRAINT JMBG_Osoblja1_FK FOREIGN KEY(Specijalista) REFERENCES MEDICINSKO(JMBG_Medicinsko);
+
+CREATE TABLE STOLICA(
+Id_Stolice         number(4),
+
+Proizvodjac         varchar(15) NOT NULL,
+Datum_Proizvodnje         date NOT NULL,
+Tehnicar         varchar(15)
+);
+
+ALTER TABLE STOLICA ADD PRIMARY KEY(Id_Stolice);
+
+ALTER TABLE STOLICA ADD CONSTRAINT JMBG_Osoblja2_FK FOREIGN KEY(Tehnicar) REFERENCES NEMEDICINSKO(JMBG_Nemedicinsko);
+
+
+
+CREATE TABLE NEMEDICINSKO(
+JMBG_Nemedicinsko         varchar(15),
+Ime_Nemedicinsko       varchar(15) NOT NULL,
+Prezime_Nemedicinsko varchar(15) NOT NULL,
+FHigijenicar number(1) NOT NULL,
+FTehnicar number(1) NOT NULL,
+Struka varchar(30) 
+
+);
+
+ALTER TABLE NEMEDICINSKO ADD PRIMARY KEY(JMBG_Nemedicinsko);
+
+
+CREATE TABLE MEDICINSKO(
+JMBG_Medicinsko         varchar(15),
+Ime_Medicinsko       varchar(15) NOT NULL,
+Prezime_Medicinsko varchar(15) NOT NULL,
+Radni_Staz         number(2) NOT NULL,
+
+FLekarOpstePrakse number(1) NOT NULL,
+Broj_Ordinacije number(5),
+FSpecijalista number(1) NOT NULL,
+Specijalnost varchar(30),
+FStomatolog number(1) NOT NULL
+);
+
+ALTER TABLE MEDICINSKO ADD PRIMARY KEY(JMBG_Medicinsko);
+
+
+CREATE TABLE PACIJENT(
+JMBG_Pacijenta         varchar(15),
+Ime_Pacijenta         varchar(15) NOT NULL,
+Prezime_Pacijenta         varchar(15) NOT NULL,
+FStacionarno number(1) NOT NULL,
+FAmbulantno number(1) NOT NULL,
+Ulica varchar(25),
+Broj number(4),
+Lekar varchar(15)
+);
+
+ALTER TABLE PACIJENT ADD PRIMARY KEY(JMBG_Pacijenta);
+
+ALTER TABLE PACIJENT ADD CONSTRAINT JMBG_Osoblja3_FK FOREIGN KEY(Lekar) REFERENCES MEDICINSKO(JMBG_Medicinsko);
+
+
+
+
+
+CREATE TABLE RADI_NA(
+StomatologRadi         varchar(15),
+StolicaRadi         number(4),
+Smena         varchar(15) CHECK (Smena in ('Popodne','Prepodne')),
+Datum_Od         date NOT NULL,
+Datum_Do         date NOT NULL
+);
+
+ALTER TABLE RADI_NA ADD PRIMARY KEY(StomatologRadi , StolicaRadi);
+
+ALTER TABLE RADI_NA ADD CONSTRAINT JMBG_Osoblja4_FK FOREIGN KEY(StomatologRadi) REFERENCES MEDICINSKO(JMBG_Medicinsko);
+
+ALTER TABLE RADI_NA ADD CONSTRAINT Id_Stolice_FK FOREIGN KEY(StolicaRadi) REFERENCES STOLICA(Id_Stolice);
+
+CREATE TABLE ODRZAVA(
+JMBG_Higijenicara         varchar(15),
+OdeljenjeOdrzava         number(5)
+);
+
+ALTER TABLE ODRZAVA ADD PRIMARY KEY(JMBG_Higijenicara , OdeljenjeOdrzava);
+
+ALTER TABLE ODRZAVA ADD CONSTRAINT JMBG_Osoblja5_FK FOREIGN KEY(JMBG_Higijenicara) REFERENCES NEMEDICINSKO(JMBG_Nemedicinsko);
+
+ALTER TABLE ODRZAVA ADD CONSTRAINT Sifra_FK FOREIGN KEY(OdeljenjeOdrzava) REFERENCES ODELJENJE(Sifra);
+
+CREATE TABLE LEZI_NA(
+PacijentLezi         varchar(15),
+OdeljenjeLezi         number(5),
+Datum_Otpusta         date NOT NULL,
+Datum_Prijema         date NOT  NULL
+);
+
+ALTER TABLE LEZI_NA ADD PRIMARY KEY(PacijentLezi , OdeljenjeLezi);
+
+ALTER TABLE LEZI_NA ADD CONSTRAINT JMBG_Pacijenta_FK FOREIGN KEY(PacijentLezi) REFERENCES PACIJENT(JMBG_Pacijenta);
+
+ALTER TABLE LEZI_NA ADD CONSTRAINT Sifra1_FK FOREIGN KEY(OdeljenjeLezi) REFERENCES ODELJENJE(Sifra);
+
+CREATE TABLE INTERVENCIJA(
+PacijentIntervencija varchar(15),
+StomatologIntervencija         varchar(15),
+Datum         date NOT NULL,
+Vrsta         varchar(30) NOT NULL
+);
+
+ALTER TABLE INTERVENCIJA ADD PRIMARY KEY(PacijentIntervencija , StomatologIntervencija);
+
+ALTER TABLE INTERVENCIJA ADD CONSTRAINT JMBG_Pacijenta1_FK FOREIGN KEY(PacijentIntervencija) REFERENCES PACIJENT(JMBG_Pacijenta);
+
+ALTER TABLE INTERVENCIJA ADD CONSTRAINT JMBG_Osoblja6_FK FOREIGN KEY(StomatologIntervencija) REFERENCES MEDICINSKO(JMBG_Medicinsko);

@@ -1,0 +1,131 @@
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.exe.config
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.exe
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.pdb
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.dll
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.dll
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.dll
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.xml
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.xml
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.xml
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.csprojResolveAssemblyReference.cache
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Form1.resources
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Properties.Resources.resources
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.csproj.GenerateResource.Cache
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.exe
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.pdb
+C:\Users\Vesna\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.exe.config
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.exe
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.pdb
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.exe
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.pdb
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.dll
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.dll
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.dll
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.xml
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.xml
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.xml
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.csprojResolveAssemblyReference.cache
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Form1.resources
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Properties.Resources.resources
+C:\Users\Vesna\Desktop\New folder (2)\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.csproj.GenerateResource.Cache
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.exe.config
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.exe
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.pdb
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.exe
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.pdb
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.dll
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.dll
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.dll
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.xml
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.xml
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.xml
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.csprojResolveAssemblyReference.cache
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Form1.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Properties.Resources.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.csproj.GenerateResource.Cache
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.OdeljenjaInformacije.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.OdeljenjeEditBasic.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaStacionarnihPacijenata.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.StacionarniEditBasic.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaAmbulantnihPacijenata.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.IntervencijaEditBasic.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaIntervencijaPacijenta.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.LekarInterfejs.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.TehnicarInterfejs.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.StomatologInterfejs.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaStolicaStomatolog.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.RadiNaBasic.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Pocetna.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.HigijenicarInterfejs.resources
+C:\Users\Radenkovic\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.DodavanjePacijenta.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.exe.config
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.exe
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.pdb
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.exe
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.pdb
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.dll
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.dll
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.dll
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.xml
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.xml
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.xml
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.csprojResolveAssemblyReference.cache
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.DodavanjePacijenta.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Form1.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.HigijenicarInterfejs.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.IntervencijaEditBasic.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.LekarInterfejs.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaAmbulantnihPacijenata.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaIntervencijaPacijenta.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaStacionarnihPacijenata.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaStolicaStomatolog.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.OdeljenjaInformacije.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.OdeljenjeEditBasic.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Pocetna.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.RadiNaBasic.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.StacionarniEditBasic.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Properties.Resources.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.StomatologInterfejs.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.TehnicarInterfejs.resources
+C:\Users\gogica\Desktop\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.csproj.GenerateResource.Cache
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.dll.config
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.dll
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\Manja_bolnica.pdb
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.dll
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.dll
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.dll
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.pdb
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\FluentNHibernate.xml
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\Iesi.Collections.xml
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\bin\Debug\NHibernate.xml
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.DodavanjePacijenta.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Form1.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.HigijenicarInterfejs.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.IntervencijaEditBasic.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.LekarInterfejs.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaAmbulantnihPacijenata.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaIntervencijaPacijenta.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaStacionarnihPacijenata.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.ListaStolicaStomatolog.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.OdeljenjaInformacije.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.OdeljenjeEditBasic.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Pocetna.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.RadiNaBasic.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.StacionarniEditBasic.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.Properties.Resources.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.StomatologInterfejs.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.TehnicarInterfejs.resources
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.csproj.GenerateResource.Cache
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.dll
+F:\RAČUNARSTVO I INFORMATIKA\III GODINA\SISTEMI BAZA PODATAKA\Projekat\4.faza\proba\WebApplication1\Manja_bolnica\Manja_bolnica\obj\Debug\Manja_bolnica.pdb
